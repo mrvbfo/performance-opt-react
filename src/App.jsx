@@ -1,9 +1,10 @@
+import ScrollComponent from "./components/Debouncing/ScrollComponent"
 
 function App() {
 
   return (
     <>
-      <h1>Performance Optimization in React</h1>
+      <ScrollComponent />
     </>
   )
 }
